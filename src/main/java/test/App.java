@@ -18,6 +18,5 @@ public class App {
         } while(!"exit".equals(input));
 
         reader.close();
-        System.exit(1);
     }
 }
